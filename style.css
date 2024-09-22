@@ -1,0 +1,32 @@
+body{
+    margin:20px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto 0 auto;
+    padding: 20px;
+    width:400px;
+    text-align: center;
+    color: #2b2839;
+    background: #ddebf8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 5px blueviolet;
+}
+
+.pic{
+    width:150px;
+}
+
+.border{
+    border-bottom: 5px solid #d8cefe;
+    border-radius: 20px;
+}
+
+div:hover{
+    background: yellow;
+}
+
+.text{
+    padding-top: 20px;
+}
